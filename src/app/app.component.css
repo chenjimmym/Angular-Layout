@@ -1,0 +1,20 @@
+.header {
+    width: 800px;
+    background-color: rgb(123, 176, 255);
+    padding: 15px;
+}
+
+.nav {
+    width: 200px;
+    background-color: rgb(255, 203, 113);
+    padding: 15px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.main {
+    width: 500px;
+    background-color: pink;
+    padding: 15px;
+    display: inline-block;
+}
